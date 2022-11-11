@@ -3,4 +3,4 @@ location            = "EastUS"
 cluster_name        = "terraform-aks-project-azuredevops"
 kubernetes_version  = "1.23.12"
 system_node_count   = 2
-acr_name            = "myacr12121988"
+#acr_name            = "myacr12121988"
