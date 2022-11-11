@@ -18,7 +18,7 @@ variable "system_node_count" {
   type        = number
   description = "Number of AKS worker nodes"
 }
-variable "acr_name" {
-  type        = string
-  description = "ACR name"
-}
+#variable "acr_name" {
+ # type        = string
+  #description = "ACR name"
+#}
